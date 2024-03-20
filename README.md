@@ -1,5 +1,15 @@
 # Practicing Data Structures and Algorithms
 
+In this repository, you'll find a wide array of DSA problems, ranging from fundamental concepts like arrays and linked lists to more advanced topics like dynamic programming and graph algorithms. Each problem is carefully curated to challenge and expand your understanding of DSA.
+
+## How to Use
+
+Feel free to learn and explore the various folders and problem sets available in this repository. Each problem comes with a description, input-output specifications, and often, sample solutions.
+
+## What is DSA?
+
+Data Structures and Algorithms form the backbone of computer science and software engineering. Data Structures are the building blocks used to organize and store data effectively, while Algorithms are the step-by-step procedures used to solve problems efficiently. Mastering DSA not only enhances your problem-solving abilities but also equips you with the tools necessary to write efficient and scalable code.
+
 ## Big Os
 
 1. O(1) Constant- no loops
