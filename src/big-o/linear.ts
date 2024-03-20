@@ -1,5 +1,3 @@
-const fish = ["dory", "bruce", "marlin", "nemo"];
-const nemo = ["nemo"];
 const everyone = [
   "dory",
   "bruce",
@@ -12,9 +10,8 @@ const everyone = [
   "darla",
   "hank",
 ];
-const large = new Array(1000).fill("nemo");
 
-function findNemo(items: string[]) {
+export function findNemo(items: string[]) {
   const t0 = performance.now();
 
   for (let i = 0; i < items.length; i++) {
