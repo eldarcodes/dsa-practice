@@ -4,7 +4,8 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "start": "ts-node index.ts"
+    "start": "tsx ./src/index.ts",
+    "watch": "nodemon --exec tsx ./src/index.ts"
   },
   "keywords": [
     "dsa",
@@ -15,7 +16,8 @@
   "author": "Eldar Mirzabekov <eldarcodes@icloud.com>",
   "license": "ISC",
   "devDependencies": {
-    "ts-node": "^10.9.2",
+    "nodemon": "^3.1.0",
+    "tsx": "^4.10.2",
     "typescript": "^5.4.2"
   }
 }
